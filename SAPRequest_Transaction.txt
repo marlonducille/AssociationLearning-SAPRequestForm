@@ -1,0 +1,421 @@
+ Approver, Approval level 2, Approval level 3
+ Approver
+ Audit Role, Finance for District Audit, Audit Role For Transaction MM03
+ Access Trafford Service Support Team
+ Requester
+ Requester
+ Access Trafford Service Support Team
+ Requester
+ Access Trafford Customer Service Advisor
+ Leadership Support Team
+ Approver
+ Requester
+ Financial Administrator, Financial Manager, Overview and Scrutiny Reporting Role
+ Approver, Approval level 2, Approval level 3, Approval level 4, Approval level 5
+ Financial Administrator, Controlling Core Finance Role
+ Requester
+ Requester
+ Requester
+ Invoice and Credit Note Processing, Budget Reporting
+ Invoice and Credit Note Processing, Budget Reporting
+ Requester
+ General Finance Reports, Budget Reporting
+ Requester
+ Requester
+ Requester
+ General Finance Reports, Budget Reporting
+ Approver, Approval level 2
+ Approver, Approval level 2, Approval level 3
+ Requester
+ General Finance Reports, Budget Reporting
+ Financial Administrator
+ Approver
+ Access Trafford Customer Service Advisor
+ Access Trafford Customer Service Advisor
+ Requester
+ Requester
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Payroll Budget Management Reporting
+ Financial Administrator
+ Financial Administrator
+ Payroll Budget Management Reporting
+ Approver
+ Requester
+ Financial Manager, Audit Role, Finance for District Audit, Overview and Scrutiny Reporting Role, Audit Role For Transaction MM03
+ Central Manager
+ Financial Manager, Audit Role, Audit Role For Transaction MM03
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Requester
+ Requester
+ Financial Administrator
+ Approver, Approval level 2, Approval level 3
+ Requester
+ Financial Administrator
+ Requester
+ Requester
+ Central
+ Leadership Support Team
+ Access Trafford Customer Service Advisor
+ Requester
+ Requester
+ Requester
+ General Finance Reports
+ Budget Reporting
+ Invoice and Credit Note Processing
+ Requester
+ Requester
+ Approver
+ Central, Central Display
+ Approver
+ Invoice and Credit Note Processing
+ Invoice and Credit Note Processing
+ Requester
+ Invoice and Credit Note Processing
+ FI SIMS
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Invoice and Credit Note Processing
+ Environmental Services Reporting
+ Financial Manager, FI SIMS, Central Finance
+ General Finance Reports
+ Budget Reporting
+ Payroll Budget Management Reporting
+ Requester
+ Approval level 2
+ Requester
+ Invoice and Credit Note Processing
+ Leadership Support Team
+ Requester
+ Financial Administrator, Controlling Core Finance Role
+ Access Trafford Customer Service Advisor
+ Access Trafford Customer Service Advisor
+ Central
+ Requester
+ Approver, Approval level 2
+ Approver, Approval level 2
+ Requester
+ Requester
+ Requester
+ FI SIMS, Central Finance
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Financial Manager, Finance for District Audit, Overview and Scrutiny Reporting Role, Audit Role For Transaction MM03
+ Approver
+ Invoice Processing, Accounts Payable Standard
+ Budget Reporting
+ Master Data
+ Invoice Processing
+ Requester
+ Central, Central Display
+ Invoice and Credit Note Processing
+ Requester
+ Financial Administrator
+ Invoice and Credit Note Processing
+ Master Data, AGMA Hub, Accounts Payable Standard, Accounts Payable Manager
+ Access Trafford Customer Service Advisor
+ Master Data, RBS Interface
+ Requester
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Requester
+ General Finance Reports, Budget Reporting
+ Financial Administrator
+ Access Trafford Customer Service Advisor
+ Access Trafford
+ Access Trafford
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Requester
+ Accounts Payable Standard
+ Requester
+ Requester
+ Requester
+ General Finance Reports
+ Invoice and Credit Note Processing
+ Invoice and Credit Note Processing
+ Requester
+ Accounts Receivable Reporting
+ Central Finance
+ Accounts Receivable Reporting
+ Approval level 2
+ Requester
+ Approval level 2
+ Approval level 5
+ General Finance Reports
+ Payroll Reporting
+ Requester
+ Central Display
+ Requester
+ Invoice Processing, Accounts Payable Standard
+ Approval level 5
+ Requester
+ Budget Reporting
+ Requester
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Accounts Payable Standard
+ Requester
+ Requester
+ General Finance Reports, Budget Reporting
+ Requester
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Budget Reporting
+ Approval level 5
+ Requester
+ Requester
+ Audit Role
+ Requester
+ Budget Reporting
+ Invoice and Credit Note Processing
+ Approval level 5
+ Customer Maintenance
+ General Finance Reports, Budget Reporting
+ Requester
+ Requester
+ Finance for District Audit
+ Finance for District Audit
+ Finance for District Audit
+ Approver, Approval level 2
+ Approver, Approval level 2
+ Improvement Team
+ Central
+ Invoice and Credit Note Processing
+ Invoice and Credit Note Processing
+ Approval level 3
+ Approver, Approval level 2, Approval level 3
+ Access Trafford Customer Service Advisor
+ Requester
+ Requester
+ Requester
+ Approver
+ Requester
+ Requester
+ Requester
+ Requester
+ Approver, Approval level 2
+ Requester
+ Requester
+ Invoice and Credit Note Processing
+ Central
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Requester
+ Financial Administrator, Financial Masterdata
+ Approver
+ Adult Controc
+ Requester
+ Invoice and Credit Note Processing, Budget Reporting
+ Invoice and Credit Note Processing
+ Financial Administrator
+ Payroll Budget Management Reporting
+ Financial Administrator
+ Central, Central Display
+ Accounts Receivable Reporting
+ Requester
+ Invoice and Credit Note Processing
+ Requester
+ Approval level 5
+ Requester
+ Approval level 3
+ Requester
+ Financial Administrator
+ Approver
+ Accounts Payable Reporting
+ Approver, Approval level 2, Approval level 3
+ Invoice and Credit Note Processing, Budget Reporting
+ Requester
+ Requester
+ Central, Central Manager
+ Master Data, Invoice Processing, Adult Controc, Accounts Payable Standard, Children's Controc
+ Master Data, Invoice Processing, Adult Controc, Accounts Payable Standard, Children's Controc
+ Invoice and Credit Note Processing, General Finance Reports
+ Payroll Budget Management Reporting
+ General Finance Reports
+ Financial Administrator, Central Finance
+ General Finance Reports, Budget Reporting
+ General Finance Reports, Budget Reporting
+ Customer Maintenance
+ General Finance Reports
+ Leadership Support Team
+ Accounts Payable Standard
+ Invoice and Credit Note Processing
+ Access Trafford Service Support Team
+ Requester
+ Approver
+ Requester
+ Requester
+ Financial Administrator
+ Requester
+ Requester
+ Corporate Complaints CRM Adminstrator
+ Requester
+ Customer Maintenance
+ Invoice and Credit Note Processing
+ Financial Administrator
+ Approver, Approval level 2, Approval level 3, Approval level 4
+ Approver, Approval level 2, Approval level 3
+ Invoice and Credit Note Processing, Budget Reporting
+ Payroll Budget Management Reporting
+ Requester
+ Requester
+ Requester
+ Requester
+ Approver, Approval level 4, Approval level 5
+ General Finance Reports
+ Requester
+ Requester
+ Invoice Processing, Accounts Payable Standard
+ Requester
+ General Finance Reports
+ Requester
+ Invoice and Credit Note Processing
+ CRM Reporting
+ Requester
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Requester
+ Corporate Complaint Coordinator
+ Approver
+ Customer Maintenance
+ Approver
+ Approver
+ Financial Administrator, Central Finance
+ Approver, Approval level 2
+ Requester
+ General Finance Reports
+ Customer Maintenance
+ Invoice Processing
+ Approval level 3
+ Central, Central Display
+ Requester
+ Customer Maintenance
+ Central, Central Display
+ Approval level 2
+ Requester
+ Requester
+ Requester
+ Invoice and Credit Note Processing
+ Approver
+ Customer Maintenance
+ Central, Central Display, Central Manager
+ Approval level 3
+ Master Data, Invoice Processing
+ Requester
+ Approval level 3, Approval level 4, Approval level 5
+ Requester
+ Requester
+ Invoice and Credit Note Processing
+ Approver
+ Access Trafford Customer Service Advisor
+ Approver, Approval level 2, Approval level 3
+ Approval level 3
+ Financial Administrator, Central Finance
+ General Finance Reports
+ Requester
+ Approver
+ Requester
+ Central
+ Requester
+ Credit Note Approval, Controlling Core Finance Role, FI SIMS, Central Finance
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ General Finance Reports
+ Requester
+ Requester
+ Requester
+ Requester
+ Approval level 3
+ Approver
+ Access Trafford Customer Service Advisor
+ General Finance Reports, Budget Reporting
+ Leadership Support Team
+ Requester
+ Approver, Approval level 2
+ Invoice and Credit Note Processing
+ Approver
+ Approval level 2
+ Access Trafford Customer Service Advisor
+ Access Trafford Customer Service Advisor
+ Requester
+ Financial Administrator
+ Banking Finance
+ Central, Central Display, Central Manager
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Access Trafford Customer Service Advisor
+ Access Trafford Customer Service Advisor
+ Requester
+ Access Trafford Service Support Team
+ Financial Administrator
+ Requester
+ Approver, Approval level 2, Approval level 3, Approval level 4, Approval level 5
+ General Finance Reports, Budget Reporting
+ Central, Central Display, Central Manager
+ Invoice Processing, Accounts Payable Standard
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Requester
+ Approval level 2, Approval level 3
+ Central
+ Requester
+ Requester
+ Master Data
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Requester
+ Approval level 2, Approval level 3
+ Invoice and Credit Note Processing
+ Requester
+ Invoice and Credit Note Processing
+ Requester
+ Approval level 2
+ Requester
+ Access Trafford Customer Service Advisor
+ Access Trafford Customer Service Advisor
+ Approval level 2
+ Requester
+ Requester
+ Requester
+ General Finance Reports
+ Access Trafford Customer Service Advisor
+ Access Trafford Customer Service Advisor
+ Budget Reporting
+ Customer Maintenance
+ Accounts Payable Standard
+ Requester
+ Approver
+ Invoice and Credit Note Processing, General Finance Reports
+ Payment Run
+ Requester
+ Approver, Approval level 2, Approval level 3
+ Requester
+ Improvement Team
+ General Finance Reports
+ Approval level 4
+ Requester
+ General Finance Reports
+ Approver
+ Approver
+ Access Trafford Customer Service Advisor
+ Requester
+ Approval level 2
+ Requester
+ Central
+ Customer Maintenance
+ Requester
+ Approver
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Central, Central Display
+ Access Trafford Customer Service Advisor
+ Access Trafford Customer Service Advisor
+ Access Trafford Customer Service Advisor
+ Access Trafford Customer Service Advisor
+ Accounts Payable Standard
+ Invoice and Credit Note Processing, General Finance Reports
+ Requester
+ Invoice and Credit Note Processing, General Finance Reports, Budget Reporting
+ Accounts Payable Standard
+ Requester
+ Accounts Payable Standard
+ Requester
+ Access Trafford Customer Service Advisor
+ Access Trafford Customer Service Advisor
+ Central
+ Invoice and Credit Note Processing
+ Central Finance
+ Invoice and Credit Note Processing
+ Central, Central Display, Central Manager
+ Approval level 2
+ Requester
+ Financial Administrator, Controlling Core Finance Role
+ Requester
